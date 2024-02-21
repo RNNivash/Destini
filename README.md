@@ -23,7 +23,7 @@ Welcome to Destini, an interactive puzzle game that challenges your decision-mak
 
 ## Feedback and Support
 
-We are committed to enhancing your gaming experience and value your feedback. If you have any suggestions, encounter issues, or simply want to share your thoughts, please feel free to contact us at [your.email@example.com](mailto:rajnivash007@gmail.com).
+We are committed to enhancing your gaming experience and value your feedback. If you have any suggestions, encounter issues, or simply want to share your thoughts, please feel free to contact us at [Nivash](mailto:rajnivash007@gmail.com).
 
 ## About
 
