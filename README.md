@@ -8,6 +8,8 @@ Welcome to Destini, an interactive puzzle game that challenges your decision-mak
 - **Decision-Based Gameplay**: Make strategic decisions at critical points in the story to progress towards your destination.
 - **Dynamic Gameplay**: Experience branching paths and multiple endings based on your decisions throughout the game.
 - **Engaging Experience**: Enjoy an immersive and suspenseful gameplay experience that keeps you hooked from start to finish.
+  ![Simulator Screenshot - iPhone 15 - 2024-02-27 at 12 42 42](https://github.com/RNNivash/Destini/assets/90308206/577f255c-5da8-4d26-baa0-33f38287e823)
+ ![Simulator Screenshot - iPhone 15 - 2024-02-27 at 12 42 48](https://github.com/RNNivash/Destini/assets/90308206/ddbd6cec-9593-40eb-82d9-6e56922df806)
 
 ## How to Play
 
